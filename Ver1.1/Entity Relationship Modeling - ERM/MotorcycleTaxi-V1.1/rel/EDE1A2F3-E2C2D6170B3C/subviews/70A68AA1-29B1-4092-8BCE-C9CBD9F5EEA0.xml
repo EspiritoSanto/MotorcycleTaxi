@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.relational.DPVRelational" name="MotorcycleTaxi-V1.1" id="70A68AA1-29B1-4092-8BCE-C9CBD9F5EEA0">
+<createdBy>ES</createdBy>
+<createdTime>2014-05-25 10:34:45 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.relational.TVTable" oid="4779DB89-A176-7453-9A5A-E2CEBC2F837E" otype="Table" vid="5EAC45F1-E910-88CC-A7B9-DD83AC0544A2">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="50" y="50" width="170" height="110"/>
+<useCustomFormat>true</useCustomFormat>
+<useDefaultColor>false</useDefaultColor>
+<backgroundColor>-16711681</backgroundColor>
+<foregroundColor>-16776961</foregroundColor>
+<fonts itemClass="oracle.dbtools.crest.model.design.FontObjectWr">
+<FontObject>
+<foType>Título</foType>
+<fontStyle>1</fontStyle>
+<colorRGB>-16776961</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Coluna</foType>
+<colorRGB>-16777216</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Tipo de dados</foType>
+<colorRGB>-16744448</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Elemento da Chave Primária</foType>
+<colorRGB>-16776961</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Elemento da Chave Estrangeira</foType>
+<colorRGB>-16777216</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Elemento de Chave Exclusiva</foType>
+<colorRGB>-16776961</colorRGB>
+</FontObject>
+<FontObject>
+<foType>NOT NULL</foType>
+<colorRGB>-65536</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Chave</foType>
+<colorRGB>-16777216</colorRGB>
+</FontObject>
+<FontObject>
+<foType>Comments</foType>
+<colorRGB>-12566464</colorRGB>
+</FontObject>
+</fonts>
+</OView>
+</objectViews>
+</Diagram>

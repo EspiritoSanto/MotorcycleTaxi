@@ -1,0 +1,5 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="main_view" objectID="70A68AA1-29B1-4092-8BCE-C9CBD9F5EEA0" name="MotorcycleTaxi-V1.1" visible="false"/>
+   <object objectType="sub_view" objectID="1B4E3923-5008-B9B5-4A92-6734443D6522" name="MotorcycleTaxi-V1.1-00-Infrastructure" visible="true"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>

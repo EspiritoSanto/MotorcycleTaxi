@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.relational.RelationalDesign>
+   <object objectType="SchemaObject" objectID="6104DF4A-1DFF-DA9A-BB54-73DA9CFACD2E" name="MOTORCYCLETAXI_V1_1" seqName="seg_0"/>
+   <object objectType="Table" objectID="4779DB89-A176-7453-9A5A-E2CEBC2F837E" name="SequenceGenerator" seqName="seg_0"/>
+   <object objectType="Note" objectID="19DDD4DC-2378-467A-8598-DA2A3B65C7FA" name="Note_6" seqName="seg_0"/>
+   <object objectType="Note" objectID="31698C73-FB69-0436-F501-57B23E1F4151" name="Note_13" seqName="seg_0"/>
+   <object objectType="Note" objectID="5250032F-3D08-55DB-E8A7-D096F8AC1D2F" name="Note_15" seqName="seg_0"/>
+   <object objectType="Note" objectID="571CD526-47AC-6F53-14C5-AF405667A9D0" name="Note_14" seqName="seg_0"/>
+   <object objectType="Note" objectID="5B707966-C2A5-5743-5441-485666B19F5E" name="Note_12" seqName="seg_0"/>
+   <object objectType="Note" objectID="7E4BEE48-C8BE-BD00-074E-551497843E93" name="Note_17" seqName="seg_0"/>
+   <object objectType="Note" objectID="9175DEBA-F6CE-2699-CC71-4A5C63D432B4" name="Note_11" seqName="seg_0"/>
+   <object objectType="Note" objectID="A37FA289-51C4-59B7-7C2E-24B95E74DA67" name="Note_5" seqName="seg_0"/>
+   <object objectType="Note" objectID="AD7AD422-D496-B226-6BFE-9E794F50F2A2" name="Note_4" seqName="seg_0"/>
+   <object objectType="Note" objectID="BE8FF9E5-D91E-E8E9-6267-E02272AEA763" name="Note_21" seqName="seg_0"/>
+   <object objectType="Note" objectID="CB0A494A-9714-9F11-9360-89360E4FDC93" name="Note_23" seqName="seg_0"/>
+   <object objectType="Note" objectID="CCE595E7-8A47-B92D-5DB1-E4994B86A515" name="Note_9" seqName="seg_0"/>
+   <object objectType="Note" objectID="D8A3B820-93EB-9D0F-7CFE-05F436060BBB" name="Note_1" seqName="seg_0"/>
+   <object objectType="Note" objectID="DBE86C98-770A-7175-786B-894D7935E15B" name="Note_3" seqName="seg_0"/>
+   <object objectType="Note" objectID="EFA181F2-7AFF-172C-BDDB-1AA10905CA73" name="Note_16" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.relational.RelationalDesign>
